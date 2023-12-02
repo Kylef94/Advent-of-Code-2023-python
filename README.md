@@ -4,7 +4,7 @@ This is my repository for my advent of code 2023 solutions, completed in Python.
 
 ### Summary
 
-Day 1 - Solved
+Day 1 - Solved  
 Day 2 - Solved
 
 Good luck to anyone else participating!!
