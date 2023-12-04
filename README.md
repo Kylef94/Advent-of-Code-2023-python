@@ -8,6 +8,7 @@ I also have a makeday.sh bash script included which generates a new folder and t
 
 Day 1 - Solved  
 Day 2 - Solved  
-Day 3 - Solved
+Day 3 - Solved  
+Day 4 - Solved
 
 Good luck to anyone else participating!!
